@@ -1,0 +1,37 @@
+{
+    "todos":[
+        {
+            "id":1,
+            "value":"Todo1",
+            "isCompleted":false
+        },
+        {
+            "id":2,
+            "value":"Todo2",
+            "isCompleted":false
+        },
+        {
+            "id":3,
+            "value":"Todo3",
+            "isCompleted":false
+        },
+        {
+            "id":4,
+            "value":"Todo4",
+            "isCompleted":false
+        },
+        {
+            
+            
+            "id":5,
+            "value":"Todo5",
+            "isCompleted":false
+        },
+        {
+
+            "id":6,
+            "value":"Todo6",
+            "isCompleted":false
+        }
+    ]
+}
